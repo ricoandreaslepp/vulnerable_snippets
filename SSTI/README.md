@@ -1,6 +1,9 @@
 # Jinja2 SSTI
 
-name parameter is vulnerable to SSTI.
+name parameter is vulnerable to SSTI. Run with
+```
+python3 flask_jinja.py
+```
 
 # Payloads
 for detection
